@@ -360,8 +360,6 @@ Automated-rPvZH-Garden/
 │       ├── font/
 │       │   └── Roboto-Medium.ttf
 │       └── images/               # 128×128 RGBA PNG sprites
-├── DSA_REPORT.md                 # Academic DSA course report
-├── project_info.md               # Detailed project specification
 └── info.json                     # Top-level cog metadata
 ```
 
