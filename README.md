@@ -1,6 +1,6 @@
 # Automated r/PvZH Garden
 
-> A Discord bot cog for [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) that simulates a real-time Zen Garden game inspired by *Plants vs. Zombies: Heroes* — complete with passive plant growth, a recipe-based fusion crafting system, a player-driven economy, peer-to-peer trading, and PIL-generated garden visuals.
+> A Discord bot cog for [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) that simulates a real-time Zen Garden game inspired by *Plants vs. Zombies: Fusion*, complete with passive plant growth, a recipe-based fusion crafting system, a player-driven economy, peer-to-peer trading, and PIL-generated garden visuals.
 
 ---
 
