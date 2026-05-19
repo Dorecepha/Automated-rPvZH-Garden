@@ -34,7 +34,7 @@ from .models import PlantedSeedling, PlantedPlant, ShopItemDefinition
 class ARG(commands.Cog):
     """Penny's Zen Garden Interface - Assist users in managing their Zen Gardens."""
 
-    CURRENCY_EMOJI = "<:Sun:286219730296242186>"
+    CURRENCY_EMOJI = "<:sun:1490549289049526302>"
     DISCORD_LOG_CHANNEL_ID = 1386642972539621487
     # 1379054870312779917
     _DISPLAY_TEXT_GARDEN_IN_PROFILE: bool = False
